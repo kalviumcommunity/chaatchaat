@@ -1,4 +1,4 @@
-# ChaatChaat 🌶️ — MPA 4 Starter (Next.js + TypeScript)
+# ChaatChaat 🌶️ (Next.js + TypeScript)
 
 A tiny street-food explorer. You will finish the React/Next.js code so the app:
 
